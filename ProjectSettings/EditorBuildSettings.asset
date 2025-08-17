@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Rooms/Intro/SceneRoomIntro.unity
+    guid: 8fbae386b5f7e654090fee45b675dba6
+  - enabled: 1
+    path: Assets/Game/Rooms/Cave/SceneRoomCave.unity
+    guid: e39b5a101325605439af7db0406d7a66
+  - enabled: 1
+    path: Assets/Game/Rooms/OldCave/SceneRoomOldCave.unity
+    guid: 634f0010da453014189651eead402358
+  - enabled: 1
+    path: Assets/Game/Rooms/Credits/SceneRoomCredits.unity
+    guid: 0c411652b7f1f44438b468bbae4b2faa
+  m_configObjects: {}
