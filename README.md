@@ -1,5 +1,5 @@
 # Leave Well Alone 🎮  
-*A short point & click adventure game made in 7 days for PowerJam #2*
+*A short point & click adventure game made in 7 days*
 
 ---
 
